@@ -1,0 +1,10 @@
+parameters:
+
+
+# TODO: Vyplnit správné údaje k databázi.
+database:
+	dsn: 'mysql:host=127.0.0.1;dbname=cviceni02a'
+	user: root
+	password:
+	options:
+		lazy: yes
